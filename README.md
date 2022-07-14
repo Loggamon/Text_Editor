@@ -30,10 +30,11 @@ To install the repository;
   - Copy the SSH link, and go to your locale machine's directory
   - Direct yourself to where you would like the project to be stored, and type "git clone <copy the link here>", and press enter
 Congrats! you have installed the repository to your local machine!
+```
 
+This program can also be installable through the [Heroku](https://loggamons-text-editor.herokuapp.com/) app.
 
-This program can also be installable through the Heroku app.
-
+```
 To install the app though Heroku;
 	- Simply click the 'install' button at the top of the page, and accept the incoming changes.
 Congrats! You have installed the app to your desktop!
