@@ -35,7 +35,7 @@ module.exports = () => {
         filename: "manifest.json",
         name: "Just Another Text Editor",
         shortname: "JATE",
-        description: "blamk for now",
+        description: "A handy way to write things down, on or off the web!",
         background_color: "#fef292",
         theme_color: "#fef292",
         crossorigin: "use-credentials",
